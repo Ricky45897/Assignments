@@ -1,0 +1,66 @@
+Welcome to the Lights Out Game!
+Enter the path of the board file: =========
+0 0 0 0 0 
+0 0 0 0 0 
+0 1 0 0 0 
+0 1 1 0 0 
+1 0 0 0 0 
+=========
+Enter 0 to exit, 1 to flick a light switch, 2 to undo your previous move and 3 for a hint: Enter row and column number of the light to flick, separated by a space (e.g. "0 2" for row 0, column 2): Flicking light at (3, 1)...
+=========
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+1 0 0 0 0 
+1 1 0 0 0 
+=========
+Enter 0 to exit, 1 to flick a light switch, 2 to undo your previous move and 3 for a hint: Undoing flick at (3, 1)...
+=========
+0 0 0 0 0 
+0 0 0 0 0 
+0 1 0 0 0 
+0 1 1 0 0 
+1 0 0 0 0 
+=========
+Enter 0 to exit, 1 to flick a light switch, 2 to undo your previous move and 3 for a hint: Enter row and column number of the light to flick, separated by a space (e.g. "0 2" for row 0, column 2): Flicking light at (4, 0)...
+=========
+0 0 0 0 0 
+0 0 0 0 0 
+0 1 0 0 0 
+1 1 1 0 0 
+0 1 0 0 0 
+=========
+Enter 0 to exit, 1 to flick a light switch, 2 to undo your previous move and 3 for a hint: Enter row and column number of the light to flick, separated by a space (e.g. "0 2" for row 0, column 2): Flicking light at (4, 4)...
+=========
+0 0 0 0 0 
+0 0 0 0 0 
+0 1 0 0 0 
+1 1 1 0 1 
+0 1 0 1 1 
+=========
+Enter 0 to exit, 1 to flick a light switch, 2 to undo your previous move and 3 for a hint: Enter row and column number of the light to flick, separated by a space (e.g. "0 2" for row 0, column 2): Flicking light at (4, 4)...
+=========
+0 0 0 0 0 
+0 0 0 0 0 
+0 1 0 0 0 
+1 1 1 0 0 
+0 1 0 0 0 
+=========
+This board state has appeared before!
+Enter 0 to exit, 1 to flick a light switch, 2 to undo your previous move and 3 for a hint: Enter row and column number of the light to flick, separated by a space (e.g. "0 2" for row 0, column 2): Flicking light at (3, 1)...
+=========
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+=========
+Heatmap:
+=========
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 1 0 0 0 
+1 0 0 0 2 
+=========
+You win! Your moves have some repeating flicks!

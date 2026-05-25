@@ -1,0 +1,17 @@
+Welcome to the Lights Out Game!
+Enter the path of the board file: ===
+0 1 
+1 1 
+===
+Enter 0 to exit, 1 to flick a light switch, 2 to undo your previous move and 3 for a hint: Hint: You can try flicking the switch at (1, 1)!
+Enter 0 to exit, 1 to flick a light switch, 2 to undo your previous move and 3 for a hint: Enter row and column number of the light to flick, separated by a space (e.g. "0 2" for row 0, column 2): Flicking light at (1, 1)...
+===
+0 0 
+0 0 
+===
+Heatmap:
+===
+0 0 
+0 1 
+===
+You win! Your moves have no repeating flicks!
